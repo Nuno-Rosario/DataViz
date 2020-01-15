@@ -1,5 +1,5 @@
 gunicorn
-plotly.graph_objs
+plotly
 dash
 requests
 dash_renderer
